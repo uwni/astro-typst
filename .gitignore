@@ -27,8 +27,10 @@ pnpm-debug.log*
 .jj
 
 # project
-dist/
 **/test*.*
+
+#bun
+bun.lock
 
 !globals.d.ts
 
